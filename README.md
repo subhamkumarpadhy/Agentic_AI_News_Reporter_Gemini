@@ -29,7 +29,7 @@ An autonomous AI system that generates SEO-optimized blog posts by researching t
 
    git clone https://github.com/subhamkumarpadhy/Agentic_AI_News_Reporter_Gemini
 
-2. Create a virtual environment
+2. Create a virtual environment:
    python -m venv .venv
 
 3. Install dependencies:
