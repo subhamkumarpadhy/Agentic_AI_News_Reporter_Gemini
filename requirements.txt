@@ -1,0 +1,3 @@
+crewai
+load_dotenv
+crewai_tools
