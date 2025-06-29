@@ -26,6 +26,5 @@ write_task = Task(
     expected_output='A 4 paragraph artical on {topic} advancements formatted as markdown.',
     tools=[tool],
     agent= news_writer,
-    async_execution= False,
-    output_file= 'new-blog-post-world-war.md'
+    async_execution= False
 )
