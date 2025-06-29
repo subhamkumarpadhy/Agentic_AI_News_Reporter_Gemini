@@ -2,4 +2,3 @@ crewai
 load_dotenv
 crewai_tools
 streamlit
-pysqlite3-binary
