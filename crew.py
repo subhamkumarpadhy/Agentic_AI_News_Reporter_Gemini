@@ -7,6 +7,3 @@ crew = Crew(
     tasks=[research_task, write_task],
     process = Process.sequential
 )
-
-result = crew.kickoff(inputs={'topic': 'World War -2'})
-print(result)
