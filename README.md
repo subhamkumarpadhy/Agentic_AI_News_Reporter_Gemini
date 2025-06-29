@@ -27,7 +27,7 @@ An autonomous AI system that generates SEO-optimized blog posts by researching t
 
 1. Clone the repository:
 
-   git clone https://github.com/subhamkumarpadhy/agentic-ai-blog-generator.git
+   git clone https://github.com/subhamkumarpadhy/Agentic_AI_News_Reporter_Gemini
    cd agentic-ai-blog-generator
 
 2. Install dependencies:
