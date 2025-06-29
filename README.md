@@ -16,7 +16,7 @@ An autonomous AI system that generates SEO-optimized blog posts by researching t
 ## Tech Stack
 
 - Python
-- [CrewAI](https://github.com) — for agent orchestration
+- [CrewAI](https://github.com/subhamkumarpadhy/Agentic_AI_News_Reporter_Gemini) — for agent orchestration
 - Gemini 1.5 Flash LLM — for natural language understanding and generation
 - Serper API — for Google search integration
 - dotenv — for managing environment variables
