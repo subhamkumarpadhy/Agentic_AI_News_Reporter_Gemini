@@ -1,5 +1,8 @@
 import streamlit as st
 from crew import crew
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 
 st.set_page_config(page_title="Agentic AI Blog Generator", page_icon="📝")
 
