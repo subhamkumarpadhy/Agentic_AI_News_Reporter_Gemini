@@ -28,14 +28,16 @@ An autonomous AI system that generates SEO-optimized blog posts by researching t
 1. Clone the repository:
 
    git clone https://github.com/subhamkumarpadhy/Agentic_AI_News_Reporter_Gemini
-   cd agentic-ai-blog-generator
 
-2. Install dependencies:
+2. Create a virtual environment
+   python -m venv .venv
+
+3. Install dependencies:
     pip install -r requirements.txt
 
-3. Create a .env file and add your API keys:
+4. Create a .env file and add your API keys:
     GEMINI_API_KEY=your_gemini_api_key_here
     SERPER_API_KEY=your_serper_api_key_here
 
-4. Run the project:
+5. Run the project:
     python crew.py
